@@ -1,1 +1,1 @@
-pyinstaller -F D:\WebProjects\web_lab\Sorting\kk.py
+pyinstaller -F D:\kk.py
